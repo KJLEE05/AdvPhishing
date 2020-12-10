@@ -12,4 +12,5 @@
 [08] Netflix-TFO           [19] Paypal-TFO        [30] Cryptocurrency/ 
 [09] Instagram-Followers   [20] Telegram-TFO      [31] Mobikwik-TFO
 [10] Amazon-TFO            [21] Twitter-TFO       [32] Pinterest
-[11] WhatsApp-TFO          [22] Flipcart-TFO/     [99] Exit
+[11] WhatsApp-TFO          [22] Flipcart-TFO/     [99] Pubg
+[100] FreeFire             [101] Exit
